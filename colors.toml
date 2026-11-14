@@ -1,0 +1,35 @@
+# Deep Field — palette originale, 2026-11-14
+# Noir indigo profond, ambre stellaire; le bleu ciel froid ne sert que de repère.
+mode = "dark"
+accent = "#FFB45C"
+selection = "#222C4A"
+muted = "#647293"
+
+background = "#080B18"
+dark_background = "#05070F"
+darker_background = "#03040A"
+lighter_background = "#121A2E"
+
+foreground = "#E6EBF7"
+dark_foreground = "#7884A2"
+light_foreground = "#C2CBDE"
+bright_foreground = "#F7F9FF"
+
+hyprland_active_border = "rgba(ffb45cee) rgba(7fa9ffee) 45deg"
+hyprland_inactive_border = "rgba(3d4a6baa)"
+
+red = "#FF6B7E"
+yellow = "#F2E06A"
+orange = "#FF9E64"
+green = "#4FD3AE"
+cyan = "#6FD3FF"
+blue = "#7C9CFF"
+magenta = "#B79CFF"
+brown = "#A98A6B"
+
+bright_red = "#FFA2AF"
+bright_yellow = "#F8EFA1"
+bright_green = "#87EBCB"
+bright_cyan = "#A6E4FF"
+bright_blue = "#AABFFF"
+bright_magenta = "#D5C6FF"

@@ -1,0 +1,24 @@
+# Surcharge de section officielle Omarchy — focus froid distinct du survol ambre.
+[controls]
+normal-color = "#E6EBF7"
+normal-fill-alpha = 0.04
+normal-border = "#7884A2"
+normal-border-width = 1
+normal-border-alpha = 0.4
+hover-cursor-color = "#E6EBF7"
+hover-cursor-fill-alpha = 0.08
+hover-cursor-border = "#FFB45C"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.8
+focus-color = "#6FD3FF"
+focus-fill-alpha = 0.08
+focus-border = "#6FD3FF"
+focus-border-width = 2
+focus-border-alpha = 1.0
+selected-color = "#FFB45C"
+selected-fill-alpha = 0.08
+selected-border = "#FFB45C"
+selected-border-width = 1
+selected-border-alpha = 1.0
+pressed-fill-alpha = 0.22
+selection-fill-alpha = 0.35

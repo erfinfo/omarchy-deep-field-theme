@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Fichiers</title>
+  <desc>Un dossier d’archive ambre contenant une feuille repérée en bleu ciel.</desc>
+  <defs>
+    <linearGradient id="plate" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#131E33"/>
+      <stop offset="1" stop-color="#070B14"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(256 256) scale(1.26) translate(-256 -256)">
+    <rect x="72" y="80" width="368" height="368" rx="92" fill="#04060E" opacity=".9"/>
+    <rect x="72" y="72" width="368" height="368" rx="92" fill="url(#plate)" stroke="#3A4870" stroke-width="3"/>
+    <rect x="104" y="104" width="304" height="304" rx="66" fill="none" stroke="#26314E" stroke-width="2" opacity=".7"/>
+  </g>
+  <g transform="translate(256 256) scale(1.2) translate(-256 -256)">
+  <path d="M160 300 V196 H228 L250 226 H352 V300 Z" fill="none" stroke="#FFB45C" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M196 268 H316" fill="none" stroke="#6FD3FF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

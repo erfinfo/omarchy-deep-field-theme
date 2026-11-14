@@ -1,0 +1,14 @@
+# Surcharge de section officielle Omarchy — barre d'instrument ambre.
+# Le lanceur du dock est dessiné en QML avec la couleur de texte de la barre
+# (Commons.Color.bar.text) : c'est le seul levier prévu par Omarchy pour qu'il
+# suive la palette du thème sans forker le plugin omarchy.dock.
+[bar]
+# Alpha companions (where present) range from 0 (invisible) to 1 (opaque).
+background       = "#080B18"
+background-alpha = 1.0
+text             = "#FFB45C"
+# Modules calling attention to themselves (recording, voxtype, alerts, updates)
+active           = "#FF6B7E"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28

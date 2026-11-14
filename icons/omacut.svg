@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Omacut</title>
+  <desc>Une bande de film ambre à perforations, encadrée par deux poignées de coupe bleu ciel.</desc>
+  <defs>
+    <linearGradient id="plate" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#131E33"/>
+      <stop offset="1" stop-color="#070B14"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(256 256) scale(1.26) translate(-256 -256)">
+    <rect x="72" y="80" width="368" height="368" rx="92" fill="#04060E" opacity=".9"/>
+    <rect x="72" y="72" width="368" height="368" rx="92" fill="url(#plate)" stroke="#3A4870" stroke-width="3"/>
+    <rect x="104" y="104" width="304" height="304" rx="66" fill="none" stroke="#26314E" stroke-width="2" opacity=".7"/>
+  </g>
+  <g transform="translate(256 256) scale(1.2) translate(-256 -256)">
+  <rect x="146" y="208" width="220" height="96" rx="12" fill="none" stroke="#FFB45C" stroke-width="22"/>
+  <rect x="178" y="224" width="22" height="18" rx="4" fill="none" stroke="#647293" stroke-width="10"/>
+  <rect x="226" y="224" width="22" height="18" rx="4" fill="none" stroke="#647293" stroke-width="10"/>
+  <rect x="274" y="224" width="22" height="18" rx="4" fill="none" stroke="#647293" stroke-width="10"/>
+  <rect x="178" y="270" width="22" height="18" rx="4" fill="none" stroke="#647293" stroke-width="10"/>
+  <rect x="226" y="270" width="22" height="18" rx="4" fill="none" stroke="#647293" stroke-width="10"/>
+  <rect x="274" y="270" width="22" height="18" rx="4" fill="none" stroke="#647293" stroke-width="10"/>
+  <rect x="118" y="200" width="20" height="112" rx="10" fill="none" stroke="#6FD3FF" stroke-width="12"/>
+  <rect x="374" y="200" width="20" height="112" rx="10" fill="none" stroke="#6FD3FF" stroke-width="12"/>
+</g>
+</svg>
