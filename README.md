@@ -119,6 +119,13 @@ use; the images above show the artwork itself, unobstructed.
 
 [![Deep Field running on a real Omarchy desktop: Neovim, a terminal and the dock](screenshots/desktop.webp)](screenshots/desktop.webp)
 
+### Launcher and dock
+
+A close-up of the bottom of the same real desktop session: the amber launcher grid and the themed
+application icons. Cropped directly from the original capture, without resizing or colour changes.
+
+[![Deep Field launcher and bottom dock — amber menu grid and application icons](screenshots/launcher-dock.webp)](screenshots/launcher-dock.webp)
+
 ## Icons
 
 Fourteen icons replace the ones Omarchy draws from the palette: one indigo instrument plate, one steel
