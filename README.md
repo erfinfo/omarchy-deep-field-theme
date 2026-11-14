@@ -5,7 +5,11 @@ blue for focus, and ten original wallpapers that mix astronomical instruments wi
 Everything is generated from one `colors.toml`, so the terminal, btop, Chromium, Hyprland, Neovim,
 Helix, the shell bar and the lock screen all follow the same palette.
 
-![Deep Field running on a real Omarchy desktop: Neovim, a terminal and the dock](screenshots/desktop.webp)
+[![Dome at night — original Deep Field wallpaper](backgrounds/01-observatory-dome.jpg)](backgrounds/01-observatory-dome.jpg)
+
+*Dome at night — original artwork, without a desktop overlay. Click any wallpaper to view its full-size image.*
+
+[Wallpapers](#wallpapers) · [Real desktop](#real-desktop) · [Icons](#icons) · [Preview page](#preview-page)
 
 ## Install
 
@@ -45,20 +49,75 @@ back to its own colours.
 Ten distinct scenes, each composed with the subject in the right third and a calm left half so that
 windows stay readable.
 
-![The ten Deep Field wallpapers](screenshots/wallpapers.jpg)
+The original 1664×936 images are shown individually below, at the full width of the README.
+No thumbnail collage, desktop overlay or brightness adjustment. Click an image to open the original.
 
-| # | Name | Scene |
-| --- | --- | --- |
-| 01 | Dome at night | A telescope inside an open dome, Milky Way above |
-| 02 | Server aisle | Cold aisle between black racks, sparse amber LEDs |
-| 03 | Dish field | Radio telescopes on a plateau under a starry sky |
-| 04 | Compute blade | Macro of a board and its machined heatsink |
-| 05 | Comet over the ridge | A summit observatory under a comet |
-| 06 | Orbital mirror | A space telescope above the Earth limb |
-| 07 | Fibres on watch | A fibre patch panel glowing amber |
-| 08 | Control room | A control desk under the dome |
-| 09 | Brass orrery | A machined astronomical instrument |
-| 10 | Interferometry | Amber measurement rings on near-black indigo |
+### 01 — Dome at night
+
+A telescope inside an open dome, Milky Way above.
+
+[![Dome at night — telescope and Milky Way](backgrounds/01-observatory-dome.jpg)](backgrounds/01-observatory-dome.jpg)
+
+### 02 — Server aisle
+
+Cold aisle between black racks, sparse amber LEDs.
+
+[![Server aisle — black racks and amber LEDs](backgrounds/02-data-vault.jpg)](backgrounds/02-data-vault.jpg)
+
+### 03 — Dish field
+
+Radio telescopes on a plateau under a starry sky.
+
+[![Dish field — radio telescopes beneath the stars](backgrounds/03-dish-array.jpg)](backgrounds/03-dish-array.jpg)
+
+### 04 — Compute blade
+
+Macro of a board and its machined heatsink.
+
+[![Compute blade — circuit board and machined heatsink](backgrounds/04-silicon-core.jpg)](backgrounds/04-silicon-core.jpg)
+
+### 05 — Comet over the ridge
+
+A summit observatory under a comet.
+
+[![Comet over the ridge — a remote summit observatory](backgrounds/05-comet-ridge.jpg)](backgrounds/05-comet-ridge.jpg)
+
+### 06 — Orbital mirror
+
+A space telescope above the Earth limb.
+
+[![Orbital mirror — space telescope above Earth](backgrounds/06-orbital-scope.jpg)](backgrounds/06-orbital-scope.jpg)
+
+### 07 — Fibres on watch
+
+A fibre patch panel glowing amber.
+
+[![Fibres on watch — amber-lit fibre patch panel](backgrounds/07-fibre-relay.jpg)](backgrounds/07-fibre-relay.jpg)
+
+### 08 — Control room
+
+A control desk under the dome.
+
+[![Control room — observation desk beneath the dome](backgrounds/08-control-room.jpg)](backgrounds/08-control-room.jpg)
+
+### 09 — Brass orrery
+
+A machined astronomical instrument.
+
+[![Brass orrery — intricate astronomical instrument](backgrounds/09-brass-orrery.jpg)](backgrounds/09-brass-orrery.jpg)
+
+### 10 — Interferometry
+
+Amber measurement rings on near-black indigo.
+
+[![Interferometry — amber rings against deep indigo](backgrounds/10-interferogram.jpg)](backgrounds/10-interferogram.jpg)
+
+## Real desktop
+
+An actual Omarchy session with Neovim, a terminal and the dock. This screenshot shows the theme in
+use; the images above show the artwork itself, unobstructed.
+
+[![Deep Field running on a real Omarchy desktop: Neovim, a terminal and the dock](screenshots/desktop.webp)](screenshots/desktop.webp)
 
 ## Icons
 
@@ -66,7 +125,7 @@ Fourteen icons replace the ones Omarchy draws from the palette: one indigo instr
 edge, a 22-unit amber stroke on a 512 grid, and a single sky-blue marker. They fill the same area as
 the dock launcher at `iconSize = round(36 × fontScale)`.
 
-![The fourteen Deep Field application icons](screenshots/icons.png)
+![The fourteen Deep Field application icons](screenshots/icons.jpg)
 
 ## Palette
 
@@ -88,10 +147,17 @@ gradient at 45°, the inactive border `rgba(3d4a6b aa)`.
 `preview.html` is a self-contained page (no network dependency) that shows the theme, lets you switch
 between the ten wallpapers, and copies palette hexes. Open it locally in any browser.
 
+These captures document the interactive preview's interface, not the full-size artwork above.
+
+<details>
+<summary>Show the preview page screenshots</summary>
+
 ![Preview page hero](screenshots/preview-hero.jpg)
 ![Preview page desktop mockup](screenshots/preview-desktop.jpg)
 ![Preview page icons](screenshots/preview-icons.jpg)
 ![Preview page palette](screenshots/preview-palette.jpg)
+
+</details>
 
 The desktop mockup is labelled as a mockup: it is HTML, not a screenshot, and it runs no system
 command.
